@@ -1,0 +1,2 @@
+ros1_publisher
+-DCATKIN_DEVEL_PREFIX=/home/giovanna/ros1-ros2-comunication/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/giovanna/ros1-ros2-comunication/catkin_ws/install -G Unix Makefiles

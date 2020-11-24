@@ -1,0 +1,24 @@
+[0.301s] Invoking command in '/home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe': PYTHONPATH=/home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe --uninstall --editable --build-directory /home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe/build
+[0.572s] running develop
+[0.761s] Invoked command in '/home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe' returned '0': PYTHONPATH=/home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe --uninstall --editable --build-directory /home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe/build
+[0.763s] Invoking command in '/home/giovanna/ros1-ros2-comunication/colcon_ws/src/ros2_subscribe': PYTHONPATH=/home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_subscribe build --build-base /home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe/build install --prefix /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe --record /home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe/install.log --single-version-externally-managed
+[1.012s] running egg_info
+[1.012s] writing ../../build/ros2_subscribe/ros2_subscribe.egg-info/PKG-INFO
+[1.013s] writing dependency_links to ../../build/ros2_subscribe/ros2_subscribe.egg-info/dependency_links.txt
+[1.013s] writing entry points to ../../build/ros2_subscribe/ros2_subscribe.egg-info/entry_points.txt
+[1.013s] writing requirements to ../../build/ros2_subscribe/ros2_subscribe.egg-info/requires.txt
+[1.013s] writing top-level names to ../../build/ros2_subscribe/ros2_subscribe.egg-info/top_level.txt
+[1.050s] reading manifest file '../../build/ros2_subscribe/ros2_subscribe.egg-info/SOURCES.txt'
+[1.051s] writing manifest file '../../build/ros2_subscribe/ros2_subscribe.egg-info/SOURCES.txt'
+[1.052s] running build
+[1.052s] running build_py
+[1.052s] running install
+[1.053s] running install_lib
+[1.055s] running install_data
+[1.055s] running install_egg_info
+[1.057s] removing '/home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/python3.8/site-packages/ros2_subscribe-0.0.0-py3.8.egg-info' (and everything under it)
+[1.057s] Copying ../../build/ros2_subscribe/ros2_subscribe.egg-info to /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/python3.8/site-packages/ros2_subscribe-0.0.0-py3.8.egg-info
+[1.058s] running install_scripts
+[1.077s] Installing ros2_node_subscribe script to /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/ros2_subscribe
+[1.078s] writing list of installed files to '/home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe/install.log'
+[1.103s] Invoked command in '/home/giovanna/ros1-ros2-comunication/colcon_ws/src/ros2_subscribe' returned '0': PYTHONPATH=/home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_subscribe build --build-base /home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe/build install --prefix /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe --record /home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe/install.log --single-version-externally-managed

@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing ros2_subscribe.egg-info/PKG-INFO
+writing dependency_links to ros2_subscribe.egg-info/dependency_links.txt
+writing entry points to ros2_subscribe.egg-info/entry_points.txt
+writing requirements to ros2_subscribe.egg-info/requires.txt
+writing top-level names to ros2_subscribe.egg-info/top_level.txt
+reading manifest file 'ros2_subscribe.egg-info/SOURCES.txt'
+writing manifest file 'ros2_subscribe.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/python3.8/site-packages/ros2-subscribe.egg-link (link to .)
+Installing ros2_node_subscribe script to /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/ros2_subscribe
+
+Installed /home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe
+running install_data

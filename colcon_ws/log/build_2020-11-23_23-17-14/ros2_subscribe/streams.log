@@ -1,0 +1,18 @@
+[0.320s] Invoking command in '/home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe': PYTHONPATH=/home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe --editable --build-directory /home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe/build --no-deps install_data --install-dir /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe
+[0.613s] running develop
+[0.810s] running egg_info
+[0.810s] writing ros2_subscribe.egg-info/PKG-INFO
+[0.810s] writing dependency_links to ros2_subscribe.egg-info/dependency_links.txt
+[0.811s] writing entry points to ros2_subscribe.egg-info/entry_points.txt
+[0.811s] writing requirements to ros2_subscribe.egg-info/requires.txt
+[0.811s] writing top-level names to ros2_subscribe.egg-info/top_level.txt
+[0.854s] reading manifest file 'ros2_subscribe.egg-info/SOURCES.txt'
+[0.855s] writing manifest file 'ros2_subscribe.egg-info/SOURCES.txt'
+[0.913s] running build_ext
+[0.914s] Creating /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/python3.8/site-packages/site.py
+[0.916s] Creating /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/python3.8/site-packages/ros2-subscribe.egg-link (link to .)
+[0.917s] Installing ros2_node_subscribe script to /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/ros2_subscribe
+[0.917s] 
+[0.917s] Installed /home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe
+[0.917s] running install_data
+[0.953s] Invoked command in '/home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe' returned '0': PYTHONPATH=/home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe --editable --build-directory /home/giovanna/ros1-ros2-comunication/colcon_ws/build/ros2_subscribe/build --no-deps install_data --install-dir /home/giovanna/ros1-ros2-comunication/colcon_ws/install/ros2_subscribe

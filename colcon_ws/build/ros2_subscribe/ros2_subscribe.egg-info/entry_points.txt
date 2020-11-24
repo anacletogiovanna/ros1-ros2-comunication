@@ -1,0 +1,3 @@
+[console_scripts]
+ros2_node_subscribe = ros2_subscribe.ros2_node_subscribe:main
+

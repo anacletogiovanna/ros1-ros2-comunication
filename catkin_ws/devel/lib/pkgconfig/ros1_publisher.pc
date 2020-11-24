@@ -1,0 +1,8 @@
+prefix=/home/giovanna/ros1-ros2-comunication/catkin_ws/devel
+
+Name: ros1_publisher
+Description: Description of ros1_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
